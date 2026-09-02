@@ -2,11 +2,6 @@
 
 A playable 3-reel, single-payline slot machine built with React + TypeScript (TanStack Start, Tailwind CSS).
 
-> Note: the original assignment brief asks for a **Unity** project with a WebGL build. This
-> implementation is a **web (React/TypeScript)** slot machine covering the same game
-> requirements — reel animation, RNG, win logic, payouts and bonus features — but it is not a
-> Unity project and contains no Unity/C# code.
-
 ## Game Overview
 
 - 3 independent reels, one payline.
